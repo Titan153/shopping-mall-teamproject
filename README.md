@@ -8,7 +8,7 @@
 </p>
 </div>
 
-##전체 목차
+## 전체 목차
 - 프로젝트 개요: #프로젝트-개요
 - 프로젝트 설명(프론트엔드・백엔드)](#프로젝트-설명)
 - 리팩토링: #리팩토링
@@ -18,8 +18,7 @@
 - 프로젝트명: Perion
 - 프로젝트 기간: 2023년 12월 5일 ~ 2024년 1월 8일 (약 1개월)
 - 프로젝트 기술:
-   
-   + Backend<br>
+  + Backend<br>
     <img src="https://img.shields.io/badge/Java-1C9AD6?style=flat-square&logo=Java&logoColor=orange"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MyBatis-030303?style=flat-square&logo=MyBatis&logoColor=white"/>
