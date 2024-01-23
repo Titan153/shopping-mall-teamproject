@@ -9,11 +9,12 @@
 </div>
 
 ## 전체 목차
-- 프로젝트 개요: #프로젝트-개요
-- 프로젝트 설명(프론트엔드・백엔드)](#프로젝트-설명)
-- 리팩토링: #리팩토링
-- 참고자료: #참고자료
-- 
+- [프로젝트 개요](#프로젝트-개요)
+- [프로젝트 설명(프론트엔드・백엔드)](#프로젝트-설명)
+- [리팩토링](#리팩토링)
+- [참고자료](#참고자료)
+
+
 ## 프로젝트 개요
 - 프로젝트명: Perion
 - 프로젝트 기간: 2023년 12월 5일 ~ 2024년 1월 8일 (약 1개월)
@@ -54,7 +55,7 @@
   + 창명성 (BE/FE)　[@Ainchel](https://github.com/Ainchel)　<br><br>
   AJAX / 재고 관리 기능 / 회원 카트 기능 / 비회원 카트 기능 / 비회원 주문 기능
 
-#### 프로젝트설명
+## 프로젝트설명
 ※[프로젝트의 자세한 설명과 과정은 이쪽에서](https://zenn.dev/eldorado215) 
 
 페이지의 일본어는 구글 번역을 사용하여 임시로 번역하고 있습니다.
@@ -113,8 +114,8 @@
     <tr>
       <th align="center">Navigation</th>
       <th align="center">Side bar</th>
-      <th align="center">login(未入力)</th>
-      <th align="center">login(入力後)</th>
+      <th align="center">login</th>
+      <th align="center">login</th>
     </tr>
   <tbody>
     <tr>
@@ -182,10 +183,6 @@
   관리자 페이지에서 상품, 사진, 재고 등을 DB, resource 폴더에 등록하고 클라이언트 페이지에서 해당 데이터를 읽는 형태입니다.<br>
 
   + 주문
-  + 
-  管理者ページから商品・写真・在庫などをDB、resourceフォルダーに登録し、クライアントページからそのデーターを読む形です。<br>
-    
-  + 注文
 
   <table>
   <thead>
@@ -259,6 +256,6 @@
 - 상품 사진 360매: https://www.coor.kr/
 - 인덱스 페이지의 이미지: https://unsplash.com/ko
 - - 로고: https://www.figma.com/
-- - Kakao Map API, Kakao アドレスAPI : https://developers.kakao.com/
+- - Kakao Map API, Kakao 주소 API : https://developers.kakao.com/
 - - Sweetalert2: https://sweetalert2.github.io/
 - SVG 및 글꼴: https://fonts.google.com/
