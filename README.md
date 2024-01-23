@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
     <img src="https://img.shields.io/badge/Lombok-EC1C24?style=flat-square&logo=Lombok&logoColor=white"/>
+
   + Frontend<br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -263,6 +264,8 @@
 - - Sweetalert2: https://sweetalert2.github.io/
 - SVG 및 글꼴: https://fonts.google.com/
 <br>
+
+
 <div align="center">
 <h1>Project PERION</h1>
 <p>
@@ -290,6 +293,7 @@
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
     <img src="https://img.shields.io/badge/Lombok-EC1C24?style=flat-square&logo=Lombok&logoColor=white"/>
+
   + Frontend<br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
