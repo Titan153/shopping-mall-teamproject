@@ -48,13 +48,13 @@
   + 권혁모 (PM/BE/FE) [@HyonHyonKOR](https://github.com/HyonHyonKOR) <br><br>
   UX/UI 디자인 총괄 / 클라이언트 페이지 마크업 (FE) / 서버 아키텍처 / 회원 기능 전반 / 유효성 검사 / 인증 (Spring Interceptor) <br><br>
   + 김찬혁 (BE/FE)  [@swaeluu](https://github.com/swaeluu) <br><br>
-  UX/UI 디자인 / 관리자 페이지 마크업 (FE) / Q&A 기능 / 고객 리뷰 기능 / 페이지 처리
+  UX/UI 디자인 / 관리자 페이지 마크업 (FE) / Q&A 기능 / 고객 리뷰 기능 / 페이지 처리<br><br>
   + 박영무 (BE/FE)　[@VoiceofSiren](https://github.com/VoiceofSiren) <br><br>
-  AJAX / 상품 관련 기능 / 재고 관리 기능 / 회원 카트 기능 / 회원 주문 기능 / DB 관리자
+  AJAX / 상품 관련 기능 / 재고 관리 기능 / 회원 카트 기능 / 회원 주문 기능 / DB 관리자<br><br>
   + 이범선 (BE/FE) [@Titan153](https://github.com/Titan153)　<br><br>
-  알림 기능 / ID/PW 재설정 기능 / 마크업 보조 / 외부 API / 참고자료 정리
+  알림 기능 / ID/PW 재설정 기능 / 마크업 보조 / 외부 API / 참고자료 정리<br><br>
   + 창명성 (BE/FE)　[@Ainchel](https://github.com/Ainchel)　<br><br>
-  AJAX / 재고 관리 기능 / 회원 카트 기능 / 비회원 카트 기능 / 비회원 주문 기능
+  AJAX / 재고 관리 기능 / 회원 카트 기능 / 비회원 카트 기능 / 비회원 주문 기능<br><br>
 
 ## 프로젝트설명
 ※[프로젝트의 자세한 설명과 과정은 이쪽에서](https://zenn.dev/eldorado215) 
