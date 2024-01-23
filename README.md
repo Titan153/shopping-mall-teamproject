@@ -256,7 +256,7 @@
 ## 참고 자료
 - 상품 사진 360매: https://www.coor.kr/
 - 인덱스 페이지의 이미지: https://unsplash.com/ko
-- - 로고: https://www.figma.com/
-- - Kakao Map API, Kakao 주소 API : https://developers.kakao.com/
-- - Sweetalert2: https://sweetalert2.github.io/
+- 로고: https://www.figma.com/
+- Kakao Map API, Kakao 주소 API : https://developers.kakao.com/
+- Sweetalert2: https://sweetalert2.github.io/
 - SVG 및 글꼴: https://fonts.google.com/
